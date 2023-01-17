@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I am Filip Šimičević, currently working as a Technical Consultant at the [Cloudsense](https://www.cloudsense.com/) and I am a student at [FER](https://www.fer.unizg.hr/). As a Junior developer, I love writing clean and maintainable code. Find out more about me & feel free to connect me here:
 
-![https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-square&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/filip-šimičević-13041623b/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/filip-šimičević-13041623b/)](https://www.linkedin.com/in/filip-šimičević-13041623b/)
 
 
 ## ⚡ Technologies
