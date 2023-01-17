@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=facafile)](https://github.com/facafile/github-readme-stats)
 -->
 ### Hi there 👋
 
@@ -33,4 +34,4 @@ I am Filip Šimičević, currently working as a Technical Consultant at the [Clo
 ![https://img.shields.io/badge/GIT-E44C30?style=for-the-square&logo=git&logoColor=white](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![https://img.shields.io/badge/Jira-0052CC?style=for-the-square&logo=Jira&logoColor=white](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=facafile)](https://github.com/facafile/github-readme-stats)
+
