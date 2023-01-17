@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **facafile/facafile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +17,7 @@ Here are some ideas to get you started:
 
 I am Filip Šimičević, currently working as a Technical Consultant at the [Cloudsense](https://www.cloudsense.com/) and I am a student at [FER](https://www.fer.unizg.hr/). I am a Junior developer and love writing clean and maintainable code. Find out more about me & feel free to connect me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-ludehsar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/filip/)](https://www.linkedin.com/in/filip-šimičević-13041623b/))
+[![Linkedin Badge](https://img.shields.io/badge/-filip-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/filip-šimičević-13041623b/)](https://www.linkedin.com/in/filip-šimičević-13041623b/))
 
 
 ## ⚡ Technologies
