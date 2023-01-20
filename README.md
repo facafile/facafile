@@ -24,6 +24,7 @@ I am Filip Šimičević, currently working as a Technical Consultant at the [Clo
 ## ⚡ Technologies
 
 ![https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![https://img.shields.io/badge/C-00599C?style=for-the-square&logo=c&logoColor=white](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
