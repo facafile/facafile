@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-I am Filip Šimičević, currently working as a Technical Consultant at the [BitAhead]. As a Junior developer, I love writing clean and maintainable code. My major is on the theme of artificial inteligence and computer vision. Find out more about me & feel free to connect me here:
+I am Filip Šimičević, currently working as a Technical Consultant at BitAhead. As a Junior developer, I love writing clean and maintainable code. My major is on the theme of artificial inteligence and computer vision. Find out more about me & feel free to connect me here:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/filip-šimičević-13041623b/)](https://www.linkedin.com/in/filip-šimičević-13041623b/)
 
